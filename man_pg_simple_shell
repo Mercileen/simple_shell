@@ -1,5 +1,4 @@
-simple_shell is a command interpreter that uses funtions and system calls to execute programs stored in the O.S. Standard C functions and system calls employed for this simple_shell:
-simple_shell man page
+The simple_shell "09" "November 2023" "simple_shell man page" "simple_shell man page"
 .SH NAME
 .B shell
 - a standard command interpreter similar to the GNU Bourne-Again SHell (sh).
@@ -39,5 +38,4 @@ man sh, execve(2), environ
 .SH NOTES
 All files and code used in .shell were created and compiled on Ubuntu 14.04.4 LTS using GCC 4.8.4
 .SH BUGS
-There are many features and builtin commands that are not implimented in this simple shell such as aliases, cd, and logical operators.
-
+There are many features and builtin commands that are not implimented in this simple shell such as aliases, cd, and logical operators. 
